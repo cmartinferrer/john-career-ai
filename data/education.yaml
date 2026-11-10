@@ -1,0 +1,27 @@
+
+formal:
+  - institution: "University of Manchester"
+    degree: "BSc Computer Science"
+    start: "2011"
+    end: "2014"
+    description: >
+      Formación en programación, algoritmos,
+      bases de datos e ingeniería de software.
+
+certifications:
+  - name: "AWS Certified Developer - Associate"
+    issuer: "Amazon Web Services"
+    year: 2023
+
+  - name: "Certified Kubernetes Application Developer"
+    issuer: "Cloud Native Computing Foundation"
+    year: 2024
+
+courses:
+  - name: "Event-Driven Architecture with Apache Kafka"
+    provider: "Formación online"
+    year: 2022
+
+  - name: "Advanced Python Development"
+    provider: "Formación online"
+    year: 2021

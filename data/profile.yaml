@@ -1,0 +1,23 @@
+
+personal:
+  name: "John Doe"
+  title: "Senior Backend Software Engineer"
+  summary: >
+    Ingeniero de software con más de 10 años de experiencia
+    desarrollando aplicaciones backend, microservicios y
+    plataformas de procesamiento de datos. Especializado
+    en Python, Java, Spring Boot, Apache Kafka y
+    arquitecturas cloud. Ha participado en proyectos
+    de comercio electrónico, logística y servicios
+    financieros, combinando desarrollo hands-on,
+    diseño técnico y optimización de sistemas.
+
+presentation:
+  tagline: "Senior Software Engineer · Backend & Distributed Systems"
+  highlights:
+    - "Python"
+    - "Java"
+    - "Spring Boot"
+    - "Apache Kafka"
+    - "AWS"
+    - "Kubernetes"

@@ -1,0 +1,87 @@
+
+categories:
+  - name: "Lenguajes de programación"
+    skills:
+      - id: python
+        name: "Python"
+        level: "Avanzado"
+        description: "Desarrollo backend, automatización y procesamiento de datos."
+
+      - id: java
+        name: "Java"
+        level: "Avanzado"
+        versions: ["11", "17", "21"]
+        description: "Desarrollo de aplicaciones empresariales y microservicios."
+
+      - id: sql
+        name: "SQL"
+        level: "Avanzado"
+        description: "Consultas, modelado de datos y optimización."
+
+  - name: "Frameworks y APIs"
+    skills:
+      - id: spring-boot
+        name: "Spring Boot"
+        level: "Avanzado"
+        description: "Microservicios, APIs REST y aplicaciones empresariales."
+
+      - id: fastapi
+        name: "FastAPI"
+        level: "Avanzado"
+        description: "Desarrollo de APIs asíncronas con Python."
+
+  - name: "Mensajería y datos"
+    skills:
+      - id: kafka
+        name: "Apache Kafka"
+        level: "Avanzado"
+        description: "Procesamiento de eventos y comunicación asíncrona."
+
+      - id: postgresql
+        name: "PostgreSQL"
+        level: "Avanzado"
+        description: "Persistencia relacional y optimización de consultas."
+
+      - id: redis
+        name: "Redis"
+        level: "Intermedio"
+        description: "Caché, almacenamiento temporal y coordinación."
+
+  - name: "Cloud y DevOps"
+    skills:
+      - id: aws
+        name: "Amazon Web Services"
+        level: "Avanzado"
+        description: "Despliegue y operación de aplicaciones cloud."
+
+      - id: docker
+        name: "Docker"
+        level: "Avanzado"
+        description: "Contenedorización de aplicaciones."
+
+      - id: kubernetes
+        name: "Kubernetes"
+        level: "Intermedio"
+        description: "Despliegue y escalado de servicios."
+
+      - id: terraform
+        name: "Terraform"
+        level: "Intermedio"
+        description: "Infraestructura como código."
+
+  - name: "Calidad y testing"
+    skills:
+      - id: pytest
+        name: "pytest"
+        level: "Avanzado"
+        description: "Pruebas unitarias y de integración en Python."
+
+      - id: junit
+        name: "JUnit 5"
+        level: "Avanzado"
+        description: "Pruebas automatizadas en aplicaciones Java."
+
+      - id: cicd
+        name: "CI/CD"
+        level: "Avanzado"
+        description: "Automatización de compilación, pruebas y despliegues."

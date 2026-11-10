@@ -1,0 +1,117 @@
+
+experiences:
+  - company: "Northstar Digital Solutions"
+    role: "Senior Backend Software Engineer"
+    period:
+      start: "2022-03"
+      end: null
+    description: >
+      Desarrollo y evolución de plataformas backend
+      para clientes de comercio electrónico y logística.
+      Participación en decisiones de arquitectura,
+      implementación de microservicios y mejora
+      de la fiabilidad de sistemas distribuidos.
+    skill_ids:
+      - python
+      - java
+      - spring-boot
+      - fastapi
+      - kafka
+      - postgresql
+      - aws
+      - docker
+      - kubernetes
+      - pytest
+    projects:
+      - name: "Data Processing Platform"
+        role: "Senior Backend Engineer"
+        description: >
+          Plataforma de procesamiento de eventos para
+          consolidar pedidos, inventario y movimientos
+          logísticos de diferentes sistemas.
+        skill_ids:
+          - python
+          - fastapi
+          - kafka
+          - postgresql
+          - redis
+          - aws
+          - docker
+          - kubernetes
+          - pytest
+        details_file: "projects/data-platform.md"
+
+      - name: "Order Management Modernization"
+        role: "Backend Engineer"
+        description: >
+          Modernización de una plataforma de gestión
+          de pedidos mediante microservicios Java,
+          APIs REST y procesamiento asíncrono.
+        skill_ids:
+          - java
+          - spring-boot
+          - kafka
+          - postgresql
+          - docker
+          - junit
+          - cicd
+
+  - company: "BluePeak Financial Technologies"
+    role: "Backend Software Engineer"
+    period:
+      start: "2018-06"
+      end: "2022-02"
+    description: >
+      Desarrollo de servicios backend para aplicaciones
+      financieras, integraciones entre sistemas y
+      procesamiento de operaciones transaccionales.
+    skill_ids:
+      - java
+      - spring-boot
+      - sql
+      - postgresql
+      - docker
+      - junit
+      - cicd
+    projects:
+      - name: "Payment Integration Gateway"
+        role: "Backend Developer"
+        description: >
+          Desarrollo de una plataforma de integración
+          de pagos con proveedores externos, incorporando
+          validación de operaciones, trazabilidad,
+          reintentos y pruebas automatizadas.
+        skill_ids:
+          - java
+          - spring-boot
+          - sql
+          - postgresql
+          - junit
+          - cicd
+
+  - company: "TechBridge Consulting"
+    role: "Software Developer"
+    period:
+      start: "2015-01"
+      end: "2018-05"
+    description: >
+      Desarrollo y mantenimiento de aplicaciones
+      empresariales, APIs y servicios de integración.
+      Participación en análisis funcional,
+      implementación y pruebas.
+    skill_ids:
+      - java
+      - sql
+      - junit
+    projects:
+      - name: "Enterprise Customer Portal"
+        role: "Software Developer"
+        description: >
+          Desarrollo de funcionalidades backend
+          para un portal de gestión de clientes,
+          incluyendo operaciones de consulta,
+          actualización de datos e integraciones.
+        skill_ids:
+          - java
+          - sql
+          - junit
