@@ -1,0 +1,10 @@
+[project]
+name = "john-career-ai"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "career-ai-core",
+]
+
+[tool.uv.sources]
+career-ai-core = { git = "https://github.com/cmartinferrer/career-ai-core", rev = "v0.1.0" }
